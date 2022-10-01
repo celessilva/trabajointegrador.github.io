@@ -1,0 +1,47 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    
+}
+.texto1 {
+    color:rgb(107, 105, 105);
+}
+
+
+.texto2 {
+    font-size: 15px;
+    color:rgb(122, 121, 121);}
+    
+.texto3{
+        font-size: 20px;
+        border-radius: 10px;
+        border-color: rgb(216, 214, 214);
+        color:rgb(216, 214, 214);
+    }
+    
+
+
+#bt{
+    background-color: rgb(167, 238, 119);
+    border: none;
+}
+
+#footer {
+    background:rgb(3, 53, 66);
+    height: 100px;
+   
+}
+
+#footer a {
+    text-decoration: none;
+
+}
+
+.fondito{
+    background:
+    rgba(25, 135, 84, 5);
+}
+
+
+
+    
